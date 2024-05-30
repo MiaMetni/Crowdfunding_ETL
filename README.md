@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 Bootcamp: CU-VIRT-DATA-PT-12-2023-U-LOLC-MWTH Project 2
 
-For this project, an ETL pipeline was developed for loading and processing crowdfunding data from Excel files into a relational database using Python, Pandas, and PostgreSQL 
+For this project, an ETL (Extract, Transform, Load) pipeline was built to load and process crowdfunding data from Excel files into a relational database. The ETL (Extract, Transform, Load) pipeline was built using Python and Pandas; the data extraction, transformation, and cleaning involved Python, Pandas, and PostgreSQL.
 
 ## Project
 The data is extracted and processed. Four CSV files were used to build an entity relationship diagram (ERD) and a table schema. The CSV files were then added to a PostgreSQL database.
