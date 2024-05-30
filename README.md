@@ -1,10 +1,26 @@
 # Crowdfunding_ETL
 Bootcamp: CU-VIRT-DATA-PT-12-2023-U-LOLC-MWTH Project 2
 
-For this project, an ETL (Extract, Transform, Load) pipeline was built to load and process crowdfunding data from Excel files into a relational database. The ETL (Extract, Transform, Load) pipeline was built using Python and Pandas; the data extraction, transformation, and cleaning involved Python, Pandas, and PostgreSQL.
+Efficiency reigns supreme in the ever-evolving landscape of crowdfunding platforms like Kickstarter and Indiegogo. With a growing array of participants and diverse campaign objectives, the need for streamlined processes has never been more apparent.
 
-## Project
-The data is extracted and processed. Four CSV files were used to build an entity relationship diagram (ERD) and a table schema. The CSV files were then added to a PostgreSQL database.
+In November of 2023, I embarked on a project in collaboration with Columbia University to explore this dynamic terrain. My objective was to enhance operational efficiency in various domains by providing an enriched understanding of crowdfunding dynamics. 
+
+In order to arrive at this understanding, I analyzed over a thousand campaign projects to uncover correlations between strategies and success metrics. Additionally, I tested the efficacy of my data collection and analysis methods by modernizing a rural town's vote-counting process using VBA scripting on Excel.
+
+## Project Overview
+This project involves building an ETL (Extract, Transform, Load) pipeline to load and process crowdfunding data from Excel files into a relational database. The pipeline is constructed using Python and Pandas for data extraction and transformation, and PostgreSQL for data storage.
+
+## Significance
+Crowdfunding has become a crucial way for entrepreneurs, artists, and innovators to fund their projects. By analyzing crowdfunding data, valuable insights can be gained into successful campaigns, funding trends, and market interests. This project demonstrates the practical application of ETL processes to manage and analyze such data, making it a valuable exercise in data engineering and data analysis. The skills developed through this project are essential for handling real-world data and converting it into actionable insights.
+
+## Project Components
+The project consists of the following main components:
+1. Data Extraction and Transformation:
+   * Extract data from Excel files.
+   * Transform and clean the data using Python and Pandas.
+2. Data Storage:
+   * Build an Entity Relationship Diagram (ERD) and table schema.
+   * Load the data into a PostgreSQL database.
 
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
